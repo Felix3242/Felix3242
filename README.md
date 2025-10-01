@@ -10,7 +10,7 @@ I am Felix Gao. I am a current 1A student in Systems Design Engineering @ Waterl
 
 - 🔭 I’m currently working on **a Lost & Found App for University of Waterloo (team of 3)**
 
-- 🌱 I’m currently learning **C/C++, LangChain, AWS/Docker, machine learning frameworksRetry**
+- 🌱 I’m currently learning **C/C++, LangChain, AWS/Docker, and machine learning frameworks**
 
 - 👯 I’m looking to collaborate on **a Multi-Platform Review Aggregator**
 
